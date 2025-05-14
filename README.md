@@ -30,6 +30,7 @@ Loyali is a no-code loyalty drop platform built on Solana using compressed NFTs 
 
 - [Next.js](https://nextjs.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
+- [Civic Auth](https://www.civic.com/)
 - [shadcn/ui](https://ui.shadcn.com/)
 - [Solana](https://solana.com/)
 - [Umi SDK](https://docs.metaplex.com/umi/)
