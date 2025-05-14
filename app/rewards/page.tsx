@@ -49,7 +49,7 @@ export default function Rewards() {
                                     {cnft.content.metadata.name}
                                 </CardTitle>
                                 <p className="text-sm text-gray-400 truncate">
-                                    {cnft.content.metadata.symbol || "Loyalty cNFT"}
+                                    {cnft.content.metadata.description || "Loyalty cNFT"}
                                 </p>
                             </CardContent>
                         </Card>
