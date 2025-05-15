@@ -43,7 +43,7 @@ Loyali is a no-code loyalty drop platform built on Solana using compressed NFTs 
 Clone the repo:
 
 ```bash
-git clone [https://github.com/Satyapriyo/Loyali.git](https://github.com/Satyapriyo/Loyali_v2.git)
+git clone [https://github.com/Satyapriyo/Loyali_v2.git]
 cd Loyali
 yarn 
 yarn dev
